@@ -1,4 +1,5 @@
 I believe something is wrong when I call the main function
+By the way, the "5 cases" I think are the 5 tests the program goes through to make sure I follow the guidelines.
 
 This is the message I get.
 
