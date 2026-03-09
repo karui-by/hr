@@ -1,5 +1,6 @@
 I believe something is wrong when I call the main function
-example:
+
+This is the message I get.
 
 Summary: 5 cases (0 failures, 1 error)
 
